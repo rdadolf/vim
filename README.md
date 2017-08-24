@@ -1,0 +1,2 @@
+# vim
+Preferences for vim
